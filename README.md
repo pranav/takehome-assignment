@@ -7,6 +7,8 @@ Hello! 👋 Thank you for checking out this repository. To make sure you're in t
 
 The goal of this assignment is twofold. One, we want to make sure you'd actually be happy doing the type of work we do on a daily basis. This assignment mocks a real feature that we already have in production. Two, we want to see how you think about real world problems, not leetcode brain teasers. It's especially helpful if you can walk us through your thinking via writing. 
 
+**Please don't spend more than 3 hours on this assignment.** We're really excited to see what you can do, but we also want to respect your time 😄
+
 If you have any questions, please email lilly@contenda.co.
 
 ## Task
@@ -31,4 +33,28 @@ Array of datetime objects that have the day and the time.
 ## Setup
 For your convenience, I put a Dockerfile and helloworld Python file into this repo. Do the following to get started:
 
+1. Install Docker. We're going to be using the official python3 image from the Docker repo. 
+2. Clone this repo and `cd` into it
+3. `docker build -t main .`
+4. `docker run main`
 
+It should print "Hello World!". 
+
+## Evaluation
+Submit a Github repo (fork this one) via email to lilly@contenda.co. Please include a README that has the following:
+
+1. Any additional setup required outside of the ones I wrote so that I can run your app
+2. What your code does and why
+4. Stuff you'd like to get to but didn't have the time
+5. A rough estimate of how you spent your time
+
+When I read your code, I'll be asking myself the following:
+
+- Does this solve the business problem?
+- Is this code efficient?
+- Is this code understandable? 
+- Did you use your time well?
+
+If it makes sense, we'll organize a video call for our engineering team to ask you a few questions live and walk through the code together. 
+
+Can't wait to see what you come up with! As always, if you have any feedback on this particular assignment, please let me know. 
