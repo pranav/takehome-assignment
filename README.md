@@ -12,7 +12,7 @@ The goal of this assignment is twofold. One, we want to make sure you'd actually
 If you have any questions, please email lilly@contenda.co.
 
 ## Task
-Contenda strives to increase the top of funnel engagement for technical content. We know people work really hard to make high quality content, but sometimes it gets lost in the noise, or just due to time of posting. Let's say I made a Getting Started guide and posted it during my work day (2PM EST). That's 8PM in London, midnight in Dubai, and 5AM in Tokyo. A lot of people are going to miss my content because of *time*. **The goal of this feature is to find optimal times to post content so that all of my Twitter followers can have equal visibility**. 
+Contenda strives to increase the top of funnel engagement for technical content. We know people work really hard to make high quality content, but sometimes it gets lost in the noise, or just due to time of posting. Let's say I made a Getting Started guide and posted it during my work day (2PM EST). That's 8PM in London, midnight in Dubai, and 5AM in Tokyo. A lot of people are going to miss my content because of *time*. **The goal of this feature is to find optimal times to post content so that all of my Twitter followers can have equal visibility, no matter where in the world they are located.**. 
 
 As a user, I'm really concerned about annoying my followers. I definitely don't want something to post so often that it feels robotic. Keep that in mind when you're designing a solution. Remember, not all problems are solved through code. If you have a solution through UX, product, or even just good copy, tell us in the README. 
 
