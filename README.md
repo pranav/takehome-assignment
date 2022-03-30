@@ -20,7 +20,7 @@ At your disposal is a large `json` dump of Twitter follower data from this endpo
 
 https://developer.twitter.com/en/docs/twitter-api/users/follows/api-reference/get-users-id-followers
 
-We cleaned some of the data, so the format is `{"{user_id}":[{user.data},"{user.data.location}"` . Here is an example: `{"1500017105407602688":[<User id=1500017105407602688 name=Papon Barmon username=barmon_papon1>, 'Dhaka, Bangladesh']}`
+One of our interns exported the file and something went wrong. It should be: `{"{user_id}":[{user.data},"{user.data.location}"` . Here is an example: `{"1500017105407602688":[<User id=1500017105407602688 name=Papon Barmon username=barmon_papon1>, 'Dhaka, Bangladesh']}`. But instead it's got some weird tags and other stuff in it. Unfortunately, I don't have time to clean it up, so uh. Good luck. 
 
 #### Input
 A single date time object that has the day and the time.
